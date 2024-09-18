@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ABOUT on Felix Zhang</title>
-    <link>https://my-portfolio-sepia-zeta-32.vercel.app//about/</link>
+    <link>/about/</link>
     <description>Recent content in ABOUT on Felix Zhang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Felix Zhang</copyright>
-    <atom:link href="https://my-portfolio-sepia-zeta-32.vercel.app//about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

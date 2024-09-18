@@ -2,96 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://my-portfolio-sepia-zeta-32.vercel.app//</loc>
+    <loc>/</loc>
     <lastmod>2024-08-17T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://my-portfolio-sepia-zeta-32.vercel.app//post/night-sky/</loc>
+    <loc>/post/night-sky/</loc>
     <lastmod>2024-08-17T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://my-portfolio-sepia-zeta-32.vercel.app//post/</loc>
+    <loc>/post/</loc>
     <lastmod>2024-08-17T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://my-portfolio-sepia-zeta-32.vercel.app//techs/angular/</loc>
+    <loc>/techs/angular/</loc>
     <lastmod>2024-06-30T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://my-portfolio-sepia-zeta-32.vercel.app//techs/ionic/</loc>
+    <loc>/techs/ionic/</loc>
     <lastmod>2024-06-30T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://my-portfolio-sepia-zeta-32.vercel.app//portfolio/</loc>
+    <loc>/portfolio/</loc>
     <lastmod>2024-06-30T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://my-portfolio-sepia-zeta-32.vercel.app//techs/</loc>
+    <loc>/techs/</loc>
     <lastmod>2024-06-30T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://my-portfolio-sepia-zeta-32.vercel.app//portfolio/toast/</loc>
+    <loc>/portfolio/toast/</loc>
     <lastmod>2024-06-30T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://my-portfolio-sepia-zeta-32.vercel.app//post/boston/</loc>
+    <loc>/post/boston/</loc>
     <lastmod>2024-05-02T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://my-portfolio-sepia-zeta-32.vercel.app//portfolio/cargurus/</loc>
+    <loc>/portfolio/cargurus/</loc>
     <lastmod>2022-12-31T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://my-portfolio-sepia-zeta-32.vercel.app//post/nyc/</loc>
+    <loc>/post/nyc/</loc>
     <lastmod>2022-02-05T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://my-portfolio-sepia-zeta-32.vercel.app//portfolio/chs/</loc>
+    <loc>/portfolio/chs/</loc>
     <lastmod>2021-04-28T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://my-portfolio-sepia-zeta-32.vercel.app//techs/react-native/</loc>
+    <loc>/techs/react-native/</loc>
     <lastmod>2021-04-28T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://my-portfolio-sepia-zeta-32.vercel.app//post/north-west-china/</loc>
+    <loc>/post/north-west-china/</loc>
     <lastmod>2020-10-14T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://my-portfolio-sepia-zeta-32.vercel.app//techs/arcgis/</loc>
+    <loc>/techs/arcgis/</loc>
     <lastmod>2020-02-15T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://my-portfolio-sepia-zeta-32.vercel.app//portfolio/focused-photonics/</loc>
+    <loc>/portfolio/focused-photonics/</loc>
     <lastmod>2020-02-15T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://my-portfolio-sepia-zeta-32.vercel.app//post/japan/</loc>
+    <loc>/post/japan/</loc>
     <lastmod>2016-08-30T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://my-portfolio-sepia-zeta-32.vercel.app//about/</loc>
+    <loc>/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://my-portfolio-sepia-zeta-32.vercel.app//designs/</loc>
+    <loc>/designs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Techs on Felix Zhang</title>
-    <link>https://my-portfolio-sepia-zeta-32.vercel.app//techs/</link>
+    <link>/techs/</link>
     <description>Recent content in Techs on Felix Zhang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Felix Zhang</copyright>
     <lastBuildDate>Sun, 30 Jun 2024 19:47:09 +0200</lastBuildDate>
-    <atom:link href="https://my-portfolio-sepia-zeta-32.vercel.app//techs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/techs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Angular</title>
-      <link>https://my-portfolio-sepia-zeta-32.vercel.app//techs/angular/</link>
+      <link>/techs/angular/</link>
       <pubDate>Sun, 30 Jun 2024 19:47:09 +0200</pubDate>
-      <guid>https://my-portfolio-sepia-zeta-32.vercel.app//techs/angular/</guid>
+      <guid>/techs/angular/</guid>
       <description></description>
     </item>
     <item>
       <title>Ionic</title>
-      <link>https://my-portfolio-sepia-zeta-32.vercel.app//techs/ionic/</link>
+      <link>/techs/ionic/</link>
       <pubDate>Sun, 30 Jun 2024 19:47:09 +0200</pubDate>
-      <guid>https://my-portfolio-sepia-zeta-32.vercel.app//techs/ionic/</guid>
+      <guid>/techs/ionic/</guid>
       <description></description>
     </item>
     <item>
       <title>React Native</title>
-      <link>https://my-portfolio-sepia-zeta-32.vercel.app//techs/react-native/</link>
+      <link>/techs/react-native/</link>
       <pubDate>Wed, 28 Apr 2021 19:47:09 +0200</pubDate>
-      <guid>https://my-portfolio-sepia-zeta-32.vercel.app//techs/react-native/</guid>
+      <guid>/techs/react-native/</guid>
       <description></description>
     </item>
     <item>
       <title>ArcGIS</title>
-      <link>https://my-portfolio-sepia-zeta-32.vercel.app//techs/arcgis/</link>
+      <link>/techs/arcgis/</link>
       <pubDate>Sat, 15 Feb 2020 19:47:09 +0200</pubDate>
-      <guid>https://my-portfolio-sepia-zeta-32.vercel.app//techs/arcgis/</guid>
+      <guid>/techs/arcgis/</guid>
       <description></description>
     </item>
   </channel>
